@@ -24,7 +24,7 @@ function playerWin() {
         document.querySelector("h1").textContent = "Player 2 Wins!"
     }
     else{
-        document.querySelector("h1").textContent = "DRAW"
+        document.querySelector("h1").textContent = "DRAW!"
     }
 
 
